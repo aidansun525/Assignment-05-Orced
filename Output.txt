@@ -1,0 +1,91 @@
+/*
+Below are outputs of runnning the program 10 times and their detail respectively.
+
+-41.40280068761035
+-126.97039892025555
+79.72039696999741
+160.05697303081024
+-59.585135192622374
+93.38251825833811
+33.809228600894926
+-92.09451263991696
+-26.79511645454636
+-56.63621266783389
+
+//First time
+
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=6677:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CS0926\out\production\CS0926 Main
+-41.40280068761035
+
+Process finished with exit code 0
+
+-------------------------------------------------------------------------------------
+//Second time
+
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=6672:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CS0926\out\production\CS0926 Main
+-126.97039892025555
+
+Process finished with exit code 0
+
+-------------------------------------------------------------------------------------
+//Third time
+
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=6623:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CS0926\out\production\CS0926 Main
+79.72039696999741
+
+Process finished with exit code 0
+
+-------------------------------------------------------------------------------------
+// Fourth time
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=6627:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CS0926\out\production\CS0926 Main
+160.05697303081024
+
+Process finished with exit code 0
+
+-------------------------------------------------------------------------------------
+// Fifth time
+
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=6631:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CS0926\out\production\CS0926 Main
+-59.585135192622374
+
+Process finished with exit code 0
+
+-------------------------------------------------------------------------------------
+// Sixth time
+
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=6637:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CS0926\out\production\CS0926 Main
+93.38251825833811
+
+Process finished with exit code 0
+
+-------------------------------------------------------------------------------------
+// Seventh time
+
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=6641:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CS0926\out\production\CS0926 Main
+33.809228600894926
+
+Process finished with exit code 0
+
+-------------------------------------------------------------------------------------
+// Eighth time
+
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=6652:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CS0926\out\production\CS0926 Main
+-92.09451263991696
+
+Process finished with exit code 0
+
+-------------------------------------------------------------------------------------
+// Ninth time
+
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=6684:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CS0926\out\production\CS0926 Main
+-26.79511645454636
+
+Process finished with exit code 0
+
+-------------------------------------------------------------------------------------
+// Tenth time
+
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=6668:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CS0926\out\production\CS0926 Main
+-56.63621266783389
+
+Process finished with exit code 0
